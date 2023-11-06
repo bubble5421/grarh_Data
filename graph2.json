@@ -1,0 +1,1127 @@
+{
+    "directed": false,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+        {
+            "frame_thai": "การละทิ้ง",
+            "lexical": [
+                "abandon.v",
+                "abandoned.a",
+                "abandonment.n",
+                "forget.v",
+                "leave.v"
+            ],
+            "color": "#FFC0CB",
+            "id": "Abandonment"
+        },
+        {
+            "id": " Intentionally_affect"
+        },
+        {
+            "frame_thai": "เต็มไปด้วย",
+            "lexical": [
+                "adorned.a",
+                "asphalted.a",
+                "bedecked.a",
+                "bejewelled.a",
+                "bespattered.a",
+                "blanketed.a",
+                "brimming.a",
+                "brushed.a",
+                "buttered.a",
+                "chock-a-block.a",
+                "chock-full.a",
+                "cloaked.a",
+                "coated.a",
+                "covered.a",
+                "crammed.a",
+                "crawl.v",
+                "crawling.a",
+                "crowded.a",
+                "dabbed.a",
+                "decked.a",
+                "decorated.a",
+                "dotted.a",
+                "draped.a",
+                "drizzled.a",
+                "dusted.a",
+                "embellished.a",
+                "festooned.a",
+                "filled.a",
+                "full.a",
+                "gilded.a",
+                "glazed.a",
+                "heaped.a",
+                "hung.a",
+                "injected.a",
+                "jammed.a",
+                "jostling.a",
+                "lacquered.a",
+                "lined.a",
+                "littered.a",
+                "ornamented.a",
+                "overcrowded.a",
+                "overfilled.a",
+                "painted.a",
+                "panelled.a",
+                "paved.a",
+                "piled.a",
+                "plastered.a",
+                "replete.a",
+                "rife.a",
+                "smeared.a",
+                "spattered.a",
+                "splattered.a",
+                "sprinkled.a",
+                "strewn.a",
+                "studded.a",
+                "stuffed.a",
+                "surfaced.a",
+                "swarm.v",
+                "swarming.a",
+                "teem.v",
+                "teeming.a",
+                "throng.v",
+                "thronged.a",
+                "thronging.a",
+                "tiled.a",
+                "varnished.a",
+                "wallpapered.a"
+            ],
+            "color": "#FFC0CB",
+            "id": "Abounding_with"
+        },
+        {
+            "id": " Locative_relation"
+        },
+        {
+            "id": " Lively_place"
+        },
+        {
+            "id": " Abundance"
+        },
+        {
+            "id": "Expensiveness"
+        },
+        {
+            "id": "Mass_motion"
+        },
+        {
+            "id": " Distributed_position"
+        },
+        {
+            "frame_thai": "ผ่านความร้อน",
+            "lexical": [
+                "bake.v",
+                "barbecue.v",
+                "blanch.v",
+                "boil.v",
+                "braise.v",
+                "broil.v",
+                "brown.v",
+                "char.v",
+                "coddle.v",
+                "cook.v",
+                "deep fry.v",
+                "fry.v",
+                "grill.v",
+                "parboil.v",
+                "poach.v",
+                "roast.v",
+                "saute.v",
+                "scorch.v",
+                "sear.v",
+                "simmer.v",
+                "singe.v",
+                "sizzle.v",
+                "steam.v",
+                "stew.v",
+                "toast.v"
+            ],
+            "color": "#FFC0CB",
+            "id": "Absorb_heat"
+        },
+        {
+            "id": " Transition_to_a_quality"
+        },
+        {
+            "frame_thai": "ความมากมาย",
+            "lexical": [
+                "abound.v",
+                "abundant.a",
+                "galore.a",
+                "teem.v"
+            ],
+            "color": "#FFC0CB",
+            "id": "Abundance"
+        },
+        {
+            "id": " Gradable_attributes"
+        },
+        {
+            "id": " Scarcity"
+        },
+        {
+            "id": " Abounding_with"
+        },
+        {
+            "frame_thai": "การทำร้าย",
+            "lexical": [
+                "abuse.n",
+                "abuse.v",
+                "abusive.a",
+                "batter.v",
+                "domestic violence.n",
+                "maltreat.v",
+                "maltreatment.n"
+            ],
+            "color": "#FFC0CB",
+            "id": "Abusing"
+        },
+        {
+            "id": " Committing_crime"
+        },
+        {
+            "id": " Cause_harm"
+        },
+        {
+            "frame_thai": "เข้าฉาก",
+            "lexical": [
+             
+            ],
+            "color": "#FFC0CB",
+            "id": "Access_scenario"
+        },
+        {
+            "frame_thai": "มีส่วนร่วม",
+            "lexical": [
+                "alone.a",
+                "along with.prep",
+                "in combination.prep",
+                "singly.adv",
+                "together.adv",
+                "with.prep"
+            ],
+            "color": "#FFC0CB",
+            "id": "Accompaniment"
+        },
+        {
+            "id": " Relation"
+        },
+        {
+            "frame_thai": "บรรลุผล",
+            "lexical": [
+                "accomplish.v",
+                "accomplishment.n",
+                "achieve.v",
+                "achievement.n",
+                "bring about.v",
+                "effect.v"
+            ],
+            "color": "#FFC0CB",
+            "id": "Accomplishment"
+        },
+        {
+            "id": " Intentionally_act"
+        },
+        {
+            "frame_thai": "เครื่องประดับ",
+            "lexical": [
+                "accoutrement.n",
+                "anklet.n",
+                "armband.n",
+                "armlet.n"
+            ],
+            "color": "#FFC0CB",
+            "id": "Accountrements"
+        },
+        {
+            "id": " Artifact"
+        },
+        {
+            "frame_thai": "แม่นยำ",
+            "lexical": [
+                "accuracy.n",
+                "accurate.a",
+                "accurately.adv",
+                "exact.a",
+                "inaccuracy.n",
+                "inaccurate.a",
+                "inaccurately.adv",
+                "off.prep",
+                "on.prep",
+                "precise.a",
+                "precision.n",
+                "true.a"
+            ],
+            "color": "#FFC0CB",
+            "id": "Accuracy"
+        },
+        {
+            "id": " Inclination"
+        },
+        {
+            "id": "Measurable_attributes"
+        },
+        {
+            "id": "Success_or_failure"
+        },
+        {
+            "frame_thai": "สารออกฤทธิ์",
+            "lexical": [
+                "active.a",
+                "agent.n",
+                "bioactive.a",
+                "causative agent.n",
+                "incapacitant.n",
+                "irritant.n"
+            ],
+            "color": "#FFC0CB",
+            "id": "Active_substance"
+        },
+        {
+            "id": " Substance"
+        },
+        {
+            "frame_thai": "เสนอข้อค้นพบใหม่",
+            "lexical": [
+                "coin.v",
+                "coinage.n",
+                "discover.v",
+                "discoverer.n",
+                "discovery.n",
+                "find.v",
+                "innovate.v",
+                "innovation.n",
+                "innovator.n",
+                "invent.v",
+                "invention artifact.n",
+                "invention.n",
+                "inventor.n",
+                "original.a",
+                "originate.v",
+                "originator.n",
+                "pioneer.n",
+                "pioneer.v",
+                "pioneering.a"
+            ],
+            "color": "#FFC0CB",
+            "id": "Achieving_first"
+        },
+        {
+            "id": " Intentionally_create"
+        },
+        {
+            "id": " First_experience"
+        },
+        {
+            "id": " Product_development_scenario"
+        },
+        {
+            "id": " Product_development"
+        },
+        {
+            "frame_thai": "กิจกรรม",
+            "lexical": [
+   
+            ],
+            "color": "#FFC0CB",
+            "id": "Activity"
+        },
+        {
+            "id": " Process"
+        },
+        {
+            "id": " Apply_heat"
+        },
+        {
+            "frame_thai": "ระยะละทิ้งของกิจกรรม",
+            "lexical": [
+  
+            ],
+            "color": "#FFC0CB",
+            "id": "Activity_abandoned_state"
+        },
+        {
+            "id": " Process_uncompleted_state"
+        },
+        {
+            "frame_thai": "ระยะสำเร็จของกิจกรรม",
+            "lexical": [
+                "done.a",
+                "finished.a",
+                "through.a"
+            ],
+            "color": "#FFC0CB",
+            "id": "Activity_done_state"
+        },
+        {
+            "id": " Process_completed_state"
+        },
+        {
+            "id": " Activity"
+        },
+        {
+            "id": " Activity_finish"
+        },
+        {
+            "frame_thai": "การยุติของกิจกรรม",
+            "lexical": [
+                "complete.v",
+                "completion.n",
+                "conclude.v",
+                "finish.v",
+                "graduate.v",
+                "tie up.v",
+                "wrap up.v"
+            ],
+            "color": "#FFC0CB",
+            "id": "Activity_finish"
+        },
+        {
+            "id": "Intentionally_act"
+        },
+        {
+            "id": "Process_end"
+        },
+        {
+            "id": " Finish_game"
+        },
+        {
+            "id": " Activity_done_state"
+        },
+        {
+            "id": " Activity_ongoing"
+        },
+        {
+            "frame_thai": "การดำเนินกิจกรรมอยู่",
+            "lexical": [
+                "carry on.v",
+                "continue.v",
+                "keep on.v",
+                "keep up.v",
+                "keep.v",
+                "maintain.v",
+                "maintenance.n",
+                "proceed.v"
+            ],
+            "color": "#FFC0CB",
+            "id": "Activity_ongoing"
+        },
+        {
+            "id": " Process_continue"
+        },
+        {
+            "id": " Retaining"
+        },
+        {
+            "id": " Being_active"
+        },
+        {
+            "frame_thai": "การเริ่มต้นกิจกรรมใหม่",
+            "lexical": [
+                "renew.v",
+                "restart.v",
+                "resume.v"
+            ],
+            "color": "#FFC0CB",
+            "id": "Activity_resume"
+        },
+        {
+            "frame_thai": "การเริ่มกิจกรรม",
+            "lexical": [
+                "begin.v",
+                "beginner.n",
+                "commence.v",
+                "enter.v",
+                "get started.v",
+                "initiate.v",
+                "launch (into).v",
+                "neophyte.n",
+                "open.v",
+                "set about.v",
+                "start.v",
+                "strike up.v",
+                "swing (into).v",
+                "take up.v"
+            ],
+            "color": "#FFC0CB",
+            "id": "Activity_start"
+        },
+        {
+            "frame_thai": "การหยุดกิจกรรมชั่วคราว",
+            "lexical": [
+                "adjourn.v",
+                "freeze.n",
+                "freeze.v",
+                "moratorium.n",
+                "pause.n",
+                "suspend.v",
+                "take break.v"
+            ],
+            "color": "#FFC0CB",
+            "id": "Activity_pause"
+        },
+        {
+            "id": " Process_pause"
+        },
+        {
+            "id": " Eventive_affecting"
+        },
+        {
+            "id": " Activity_paused_state"
+        },
+        {
+            "frame_thai": "ระยะหยุดชั่วคราวของกิจกรรม",
+            "lexical": [
+            
+            ],
+            "color": "#FFC0CB",
+            "id": "Activity_paused_state"
+        },
+        {
+            "id": " Process_stopped_state"
+        },
+        {
+            "frame_thai": "เตรียมกิจกรรม",
+            "lexical": [
+                "compose.v",
+                "fix.v",
+                "gear up.v",
+                "get ready.v",
+                "preparation.n",
+                "prepare.v",
+                "rally.v",
+                "ready.v"
+            ],
+            "color": "#FFC0CB",
+            "id": "Activity_prepare"
+        },
+        {
+            "id": " Activity_ready_state"
+        },
+        {
+            "frame_thai": "ระยะพร้อมของกิจกรรม",
+            "lexical": [
+                "prepared.a",
+                "ready.a",
+                "set.a"
+            ],
+            "color": "#FFC0CB",
+            "id": "Activity_ready_state"
+        },
+        {
+            "id": " Process_initial_state"
+        },
+        {
+            "id": " Be_on_alert"
+        },
+        {
+            "id": " Standing_by"
+        },
+        {
+            "id": " Activity_start"
+        },
+        {
+            "id": " Activity_prepare"
+        },
+        {
+            "id": " Process_resume"
+        },
+        {
+            "id": " Process_start"
+        },
+        {
+            "frame_thai": "การหยุดกิจกรรม",
+            "lexical": [
+                "abandon.v",
+                "cease.v",
+                "discontinue.v",
+                "halt.v",
+                "quit.v",
+                "stop.v",
+                "terminate.v",
+                "termination.n"
+            ],
+            "color": "#FFC0CB",
+            "id": "Activity_stop"
+        },
+        {
+            "id": " Process_stop"
+        },
+        {
+            "id": " Halt"
+        },
+        {
+            "frame_thai": "เอนทิตีที่เกิดขึ้นจริง",
+            "lexical": [
+                "actual.a",
+                "true.a"
+            ],
+            "color": "#FFC0CB",
+            "id": "Actually_occurring_entity"
+        },
+        {
+            "id": " Entity"
+        },
+        {
+            "frame_thai": "การเสพติด",
+            "lexical": [
+                "addict.n",
+                "addicted.a",
+                "addiction.n",
+                "alcoholic.n",
+                "alcoholism.n",
+                "compulsive.a",
+                "fiend.n",
+                "habit.n",
+                "hooked.a",
+                "junkie.n"
+            ],
+            "color": "#FFC0CB",
+            "id": "Addiction"
+        },
+        {
+            "frame_thai": "การบวก",
+            "lexical": [
+                "add up.v",
+                "tally.v",
+                "total.v"
+            ],
+            "color": "#FFC0CB",
+            "id": "Adding_up"
+        },
+        {
+            "id": " Amounting_to"
+        },
+        {
+            "frame_thai": "การอ้าง",
+            "lexical": [
+                "adduce.v",
+                "cite.v",
+                "name.v",
+                "point.v"
+            ],
+            "color": "#FFC0CB",
+            "id": "Adducing"
+        },
+        {
+            "id": " Statement"
+        },
+        {
+            "id": " Reference_text"
+        },
+        {
+            "frame_thai": "ภาวะที่อยู่ชิดกัน",
+            "lexical": [
+                "abut.v",
+                "adjacency.n",
+                "adjacent.a",
+                "adjoin.v",
+                "adjoining.a",
+                "border.v",
+                "bordering.a",
+                "contiguity.n",
+                "contiguous.a"
+            ],
+            "color": "#FFC0CB",
+            "id": "Adjacency"
+        },
+        {
+            "frame_thai": "การปรับ",
+            "lexical": [
+                "adjust.v",
+                "adjustment.n",
+                "calibrate.v",
+                "calibration.n",
+                "tweak.n",
+                "tweak.v"
+            ],
+            "color": "#FFC0CB",
+            "id": "Adjusting"
+        }
+    ],
+    "links": [
+        {
+            "color": "#FF762D",
+            "label": "Inherits_from",
+            "source": "Abandonment",
+            "target": " Intentionally_affect"
+        },
+        {
+            "color": "#FF762D",
+            "label": "Inherits_from",
+            "source": "Abounding_with",
+            "target": " Locative_relation"
+        },
+        {
+            "color": "#FA0000",
+            "label": "Inherits_by",
+            "source": "Abounding_with",
+            "target": " Lively_place"
+        },
+        {
+            "color": "#01CDFF",
+            "label": "Uses",
+            "source": "Abounding_with",
+            "target": " Abundance"
+        },
+        {
+            "color": "#01FFE4",
+            "label": "Uses_by",
+            "source": "Abounding_with",
+            "target": "Expensiveness"
+        },
+        {
+            "color": "#01FFE4",
+            "label": "Uses_by",
+            "source": "Abounding_with",
+            "target": "Mass_motion"
+        },
+        {
+            "color": "#FF8B00",
+            "label": "See_also",
+            "source": "Abounding_with",
+            "target": " Distributed_position"
+        },
+        {
+            "color": "#FF762D",
+            "label": "Inherits_from",
+            "source": " Locative_relation",
+            "target": "Adjacency"
+        },
+        {
+            "color": "#FF762D",
+            "label": "Inherits_from",
+            "source": "Absorb_heat",
+            "target": " Transition_to_a_quality"
+        },
+        {
+            "color": "#FF762D",
+            "label": "Inherits_from",
+            "source": "Abundance",
+            "target": " Gradable_attributes"
+        },
+        {
+            "color": "#FA0000",
+            "label": "Inherits_by",
+            "source": "Abundance",
+            "target": " Scarcity"
+        },
+        {
+            "color": "#01FFE4",
+            "label": "Uses_by",
+            "source": "Abundance",
+            "target": " Abounding_with"
+        },
+        {
+            "color": "#FF762D",
+            "label": "Inherits_from",
+            "source": " Gradable_attributes",
+            "target": "Addiction"
+        },
+        {
+            "color": "#FF762D",
+            "label": "Inherits_from",
+            "source": "Abusing",
+            "target": " Committing_crime"
+        },
+        {
+            "color": "#01CDFF",
+            "label": "Uses",
+            "source": "Abusing",
+            "target": " Cause_harm"
+        },
+        {
+            "color": "#FF762D",
+            "label": "Inherits_from",
+            "source": "Accompaniment",
+            "target": " Relation"
+        },
+        {
+            "color": "#01CDFF",
+            "label": "Uses",
+            "source": "Accomplishment",
+            "target": " Intentionally_act"
+        },
+        {
+            "color": "#FF762D",
+            "label": "Inherits_from",
+            "source": "Accountrements",
+            "target": " Artifact"
+        },
+        {
+            "color": "#FF762D",
+            "label": "Inherits_from",
+            "source": "Accuracy",
+            "target": " Inclination"
+        },
+        {
+            "color": "#01CDFF",
+            "label": "Uses",
+            "source": "Accuracy",
+            "target": "Measurable_attributes"
+        },
+        {
+            "color": "#01CDFF",
+            "label": "Uses",
+            "source": "Accuracy",
+            "target": "Success_or_failure"
+        },
+        {
+            "color": "#FF762D",
+            "label": "Inherits_from",
+            "source": "Active_substance",
+            "target": " Substance"
+        },
+        {
+            "color": "#FF762D",
+            "label": "Inherits_from",
+            "source": "Achieving_first",
+            "target": " Intentionally_create"
+        },
+        {
+            "color": "#01CDFF",
+            "label": "Uses",
+            "source": "Achieving_first",
+            "target": " First_experience"
+        },
+        {
+            "color": "#04FF13",
+            "label": "Subframe_of",
+            "source": "Achieving_first",
+            "target": " Product_development_scenario"
+        },
+        {
+            "color": "#D504FF",
+            "label": "Precedes",
+            "source": "Achieving_first",
+            "target": " Product_development"
+        },
+        {
+            "color": "#FF762D",
+            "label": "Inherits_from",
+            "source": "Activity",
+            "target": " Process"
+        },
+        {
+            "color": "#FA0000",
+            "label": "Inherits_by",
+            "source": "Activity",
+            "target": " Apply_heat"
+        },
+        {
+            "color": "#FF762D",
+            "label": "Inherits_from",
+            "source": "Activity_abandoned_state",
+            "target": " Process_uncompleted_state"
+        },
+        {
+            "color": "#D504FF",
+            "label": "Precedes",
+            "source": "Activity_abandoned_state",
+            "target": "Activity_stop"
+        },
+        {
+            "color": "#FF762D",
+            "label": "Inherits_from",
+            "source": "Activity_done_state",
+            "target": " Process_completed_state"
+        },
+        {
+            "color": "#04FF13",
+            "label": "Subframe_of",
+            "source": "Activity_done_state",
+            "target": " Activity"
+        },
+        {
+            "color": "#FF04F4",
+            "label": "Preceded_by",
+            "source": "Activity_done_state",
+            "target": " Activity_finish"
+        },
+        {
+            "color": "#04FF13",
+            "label": "Subframe_of",
+            "source": " Activity",
+            "target": "Activity_finish"
+        },
+        {
+            "color": "#04FF13",
+            "label": "Subframe_of",
+            "source": " Activity",
+            "target": "Activity_ongoing"
+        },
+        {
+            "color": "#04FF13",
+            "label": "Subframe_of",
+            "source": " Activity",
+            "target": "Activity_pause"
+        },
+        {
+            "color": "#04FF13",
+            "label": "Subframe_of",
+            "source": " Activity",
+            "target": "Activity_prepare"
+        },
+        {
+            "color": "#04FF13",
+            "label": "Subframe_of",
+            "source": " Activity",
+            "target": "Activity_ready_state"
+        },
+        {
+            "color": "#04FF13",
+            "label": "Subframe_of",
+            "source": " Activity",
+            "target": "Activity_resume"
+        },
+        {
+            "color": "#04FF13",
+            "label": "Subframe_of",
+            "source": " Activity",
+            "target": "Activity_start"
+        },
+        {
+            "color": "#04FF13",
+            "label": "Subframe_of",
+            "source": " Activity",
+            "target": "Activity_stop"
+        },
+        {
+            "color": "#D504FF",
+            "label": "Precedes",
+            "source": " Activity_finish",
+            "target": "Activity_ongoing"
+        },
+        {
+            "color": "#FF762D",
+            "label": "Inherits_from",
+            "source": "Activity_finish",
+            "target": "Intentionally_act"
+        },
+        {
+            "color": "#FF762D",
+            "label": "Inherits_from",
+            "source": "Activity_finish",
+            "target": "Process_end"
+        },
+        {
+            "color": "#FA0000",
+            "label": "Inherits_by",
+            "source": "Activity_finish",
+            "target": " Finish_game"
+        },
+        {
+            "color": "#D504FF",
+            "label": "Precedes",
+            "source": "Activity_finish",
+            "target": " Activity_done_state"
+        },
+        {
+            "color": "#FF04F4",
+            "label": "Preceded_by",
+            "source": "Activity_finish",
+            "target": " Activity_ongoing"
+        },
+        {
+            "color": "#FF04F4",
+            "label": "Preceded_by",
+            "source": " Activity_ongoing",
+            "target": "Activity_pause"
+        },
+        {
+            "color": "#D504FF",
+            "label": "Precedes",
+            "source": " Activity_ongoing",
+            "target": "Activity_resume"
+        },
+        {
+            "color": "#D504FF",
+            "label": "Precedes",
+            "source": " Activity_ongoing",
+            "target": "Activity_start"
+        },
+        {
+            "color": "#FF04F4",
+            "label": "Preceded_by",
+            "source": " Activity_ongoing",
+            "target": "Activity_stop"
+        },
+        {
+            "color": "#FF762D",
+            "label": "Inherits_from",
+            "source": "Activity_ongoing",
+            "target": " Process_continue"
+        },
+        {
+            "color": "#FA0000",
+            "label": "Inherits_by",
+            "source": "Activity_ongoing",
+            "target": " Retaining"
+        },
+        {
+            "color": "#01FFE4",
+            "label": "Uses_by",
+            "source": "Activity_ongoing",
+            "target": " Being_active"
+        },
+        {
+            "color": "#FF04F4",
+            "label": "Preceded_by",
+            "source": "Activity_ongoing",
+            "target": "Activity_resume"
+        },
+        {
+            "color": "#FF04F4",
+            "label": "Preceded_by",
+            "source": "Activity_ongoing",
+            "target": "Activity_start"
+        },
+        {
+            "color": "#FF762D",
+            "label": "Inherits_from",
+            "source": "Activity_resume",
+            "target": " Process_resume"
+        },
+        {
+            "color": "#FF04F4",
+            "label": "Preceded_by",
+            "source": "Activity_resume",
+            "target": " Activity_paused_state"
+        },
+        {
+            "color": "#FF762D",
+            "label": "Inherits_from",
+            "source": "Activity_start",
+            "target": " Process_start"
+        },
+        {
+            "color": "#01CDFF",
+            "label": "Uses",
+            "source": "Activity_start",
+            "target": " Eventive_affecting"
+        },
+        {
+            "color": "#FF04F4",
+            "label": "Preceded_by",
+            "source": "Activity_start",
+            "target": " Activity_ready_state"
+        },
+        {
+            "color": "#FF762D",
+            "label": "Inherits_from",
+            "source": "Activity_pause",
+            "target": " Process_pause"
+        },
+        {
+            "color": "#01CDFF",
+            "label": "Uses",
+            "source": "Activity_pause",
+            "target": " Eventive_affecting"
+        },
+        {
+            "color": "#D504FF",
+            "label": "Precedes",
+            "source": "Activity_pause",
+            "target": " Activity_paused_state"
+        },
+        {
+            "color": "#01CDFF",
+            "label": "Uses",
+            "source": " Eventive_affecting",
+            "target": "Activity_prepare"
+        },
+        {
+            "color": "#01CDFF",
+            "label": "Uses",
+            "source": " Eventive_affecting",
+            "target": "Activity_stop"
+        },
+        {
+            "color": "#FF762D",
+            "label": "Inherits_from",
+            "source": "Activity_paused_state",
+            "target": " Process_stopped_state"
+        },
+        {
+            "color": "#D504FF",
+            "label": "Precedes",
+            "source": "Activity_paused_state",
+            "target": "Activity_stop"
+        },
+        {
+            "color": "#D504FF",
+            "label": "Precedes",
+            "source": "Activity_prepare",
+            "target": " Activity_ready_state"
+        },
+        {
+            "color": "#FF762D",
+            "label": "Inherits_from",
+            "source": "Activity_ready_state",
+            "target": " Process_initial_state"
+        },
+        {
+            "color": "#FA0000",
+            "label": "Inherits_by",
+            "source": "Activity_ready_state",
+            "target": " Be_on_alert"
+        },
+        {
+            "color": "#01FFE4",
+            "label": "Uses_by",
+            "source": "Activity_ready_state",
+            "target": " Standing_by"
+        },
+        {
+            "color": "#D504FF",
+            "label": "Precedes",
+            "source": "Activity_ready_state",
+            "target": " Activity_start"
+        },
+        {
+            "color": "#FF04F4",
+            "label": "Preceded_by",
+            "source": "Activity_ready_state",
+            "target": " Activity_prepare"
+        },
+        {
+            "color": "#FF762D",
+            "label": "Inherits_from",
+            "source": "Activity_stop",
+            "target": " Process_stop"
+        },
+        {
+            "color": "#FA0000",
+            "label": "Inherits_by",
+            "source": "Activity_stop",
+            "target": " Halt"
+        },
+        {
+            "color": "#FF762D",
+            "label": "Inherits_from",
+            "source": "Actually_occurring_entity",
+            "target": " Entity"
+        },
+        {
+            "color": "#01CDFF",
+            "label": "Uses",
+            "source": "Adding_up",
+            "target": " Amounting_to"
+        },
+        {
+            "color": "#01CDFF",
+            "label": "Uses",
+            "source": "Adducing",
+            "target": " Statement"
+        },
+        {
+            "color": "#01FFE4",
+            "label": "Uses_by",
+            "source": "Adducing",
+            "target": " Reference_text"
+        }
+    ]
+}
